@@ -7,7 +7,7 @@ excerpt: 'Alveolar macrophages are lung-resident sentinel cells that develop per
 date: 2016-12-05
 venue: 'Blood'
 paperurl: 'https://doi.org/10.1182/blood-2016-03-705962'
-citation: 'Elizabeth M. Todd, Julie Y. Zhou, **Taylor P. Szasz**, Lauren E. Deady, June A. D’Angelo, Matthew D. Cheung, Alfred H. J. Kim, Sharon Celeste Morley; Alveolar macrophage development in mice requires L-plastin for cellular localization in alveoli. Blood 2016; 128 (24): 2785–2796. doi: https://doi.org/10.1182/blood-2016-03-705962'
+citation: 'Elizabeth M. Todd, Julie Y. Zhou, <b>Taylor P. Szasz<\b>, Lauren E. Deady, June A. D’Angelo, Matthew D. Cheung, Alfred H. J. Kim, Sharon Celeste Morley; Alveolar macrophage development in mice requires L-plastin for cellular localization in alveoli. Blood 2016; 128 (24): 2785–2796. doi: https://doi.org/10.1182/blood-2016-03-705962'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
