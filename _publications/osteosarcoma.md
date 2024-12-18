@@ -7,7 +7,7 @@ excerpt: 'Target drug deliveries using nanotechnology are a novel consideration 
 date: 2016-10-1
 venue: 'BioResearch Open Access'
 paperurl: 'https://doi.org/10.1089/biores.2016.0020'
-citation: 'Kovach, A. K., Gambino, J. M., Nguyen, V., Nelson, Z., **Szasz, T.**, Liao, J., Williams, L., Bulla, S., & Prabhu, R. (2016). Prospective preliminary in vitro investigation of a magnetic iron oxide nanoparticle conjugated with ligand CD80 and VEGF antibody as a targeted drug delivery system for the induction of cell death in rodent osteosarcoma cells. BioResearch Open Access, 5(1), 299–307. https://doi.org/10.1089/biores.2016.0020 '
+citation: 'Kovach, A. K., Gambino, J. M., Nguyen, V., Nelson, Z., <b>Szasz, T.</b>, Liao, J., Williams, L., Bulla, S., & Prabhu, R. (2016). Prospective preliminary in vitro investigation of a magnetic iron oxide nanoparticle conjugated with ligand CD80 and VEGF antibody as a targeted drug delivery system for the induction of cell death in rodent osteosarcoma cells. <i>BioResearch Open Access</i>, 5(1), 299–307. https://doi.org/10.1089/biores.2016.0020 '
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
