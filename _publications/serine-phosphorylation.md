@@ -7,7 +7,7 @@ excerpt: 'Asplenia imparts susceptibility to life-threatening sepsis with encaps
 date: 2021-05-01
 venue: 'The Journal of Immunology'
 paperurl: 'https://doi.org/10.4049/jimmunol.2000899'
-citation: 'Edgar P. Anaya, Xue Lin, Elizabeth M. Todd, Taylor P. Szasz, S. Celeste Morley; Novel Mouse Model Reveals That Serine Phosphorylation of L-Plastin Is Essential for Effective Splenic Clearance of Pneumococcus. J Immunol 1 May 2021; 206 (9): 2135–2145. https://doi.org/10.4049/jimmunol.2000899'
+citation: 'Anaya, E.P., Lin, X., Todd, E.M., <b>Szasz, T.P.</b>, Morley, S.C.; Novel Mouse Model Reveals That Serine Phosphorylation of L-Plastin Is Essential for Effective Splenic Clearance of Pneumococcus. <i>J Immunol</i> 1 May 2021; 206 (9): 2135–2145. https://doi.org/10.4049/jimmunol.2000899'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
