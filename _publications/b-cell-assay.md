@@ -7,7 +7,7 @@ excerpt: 'Migration of B cells supports their development and recruitment into f
 date: 2017-06-21
 venue: 'Journal of Leukocyte Biology'
 paperurl: 'https://doi.org/10.1189/jlb.1TA0117-008R'
-citation: 'Phillip J Stewart-Hutchinson, **Taylor P Szasz**, Emily R Jaeger, Michael D Onken, John A Cooper, Sharon Celeste Morley, Technical Advance: New in vitro method for assaying the migration of primary B cells using an endothelial monolayer as substrate, Journal of Leukocyte Biology, Volume 102, Issue 3, September 2017, Pages 941–948, https://doi.org/10.1189/jlb.1TA0117-008R'
+citation: 'Stewart-Hutchinson, P.J., <b>Szasz, T.P., </b>, Jaeger, E.R., Onken, M.D., Cooper, J.A., Morley, S.C., Technical Advance: New in vitro method for assaying the migration of primary B cells using an endothelial monolayer as substrate, <i> Journal of Leukocyte Biology </i>, Volume 102, Issue 3, September 2017, Pages 941–948, https://doi.org/10.1189/jlb.1TA0117-008R.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
