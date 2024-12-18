@@ -7,7 +7,7 @@ excerpt: 'In macrophages, inflammasome pathways induce IL-1β release and pyropt
 date: 2020-05-01
 venue: 'The Journal of Immunology'
 paperurl: 'https://doi.org/10.4049/jimmunol.204.Supp.144.24'
-citation: 'Hemant Joshi, Edgar Anaya, Alison Almgren-Bell, **Taylor P. Szasz**, Elizabeth M. Todd, Sharon Celeste Morley; The actin-bundling protein L-plastin regulates NLRP3 inflammasome activation in macrophages. J Immunol 1 May 2020; 204 (1_Supplement): 144.24.'
+citation: 'Joshi, H., Anaya, E., Almgren-Bell, A., <b>Szasz, T.P.</b>, Todd, E.M., Morley, S.C.; The actin-bundling protein L-plastin regulates NLRP3 inflammasome activation in macrophages. <i>J Immunol</i> 1 May 2020; 204 (1_Supplement): 144.24.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
