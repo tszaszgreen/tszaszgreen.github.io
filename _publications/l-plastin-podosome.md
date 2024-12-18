@@ -7,8 +7,8 @@ excerpt: 'Elucidating the molecular regulation of macrophage migration is essent
 date: 2016-10-1
 venue: 'Molecular Immunology'
 paperurl: 'https://doi.org/10.1016/j.molimm.2016.08.012'
-citation: 'Julie Y. Zhou, **Taylor P. Szasz**, Phillip J. Stewart-Hutchinson, Janardan Sivapalan, Elizabeth M. Todd, Lauren E. Deady, John A. Cooper, Michael D. Onken, S. Celeste Morley,
-L-Plastin promotes podosome longevity and supports macrophage motility, Molecular Immunology, Volume 78, 2016, Pages 79-88, ISSN 0161-5890, https://doi.org/10.1016/j.molimm.2016.08.012.'
+citation: 'Zhou, J.Y., <b>Szasz, T.P.</b>, Stewart-Hutchinson, P.J., Sivapalan, J., Todd, E.M., Deady, L.E., Cooper, J.A., Onken, M.D., Morley, S.C.,
+L-Plastin promotes podosome longevity and supports macrophage motility, <i>Molecular Immunology</i>, Volume 78, 2016, Pages 79-88, ISSN 0161-5890, https://doi.org/10.1016/j.molimm.2016.08.012.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
