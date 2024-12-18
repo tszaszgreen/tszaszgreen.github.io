@@ -7,7 +7,7 @@ excerpt: 'Macrophage secretion of IL-1β is crucial to combat and clear bacteria
 date: 2019-05-01
 venue: 'The Journal of Immunology'
 paperurl: 'https://doi.org/10.4049/jimmunol.202.Supp.117.14'
-citation: 'Hemant Joshi, H., Todd, B.E., <b>Szasz, T.</b>, Anaya, E., Morley, S.C.; Inflammasome activation in macrophages is regulated by actin-bundling protein L-plastin. <i>J Immunol </i> 1 May 2019; 202 (1_Supplement): 117.14. https://doi.org/10.4049/jimmunol.202.Supp.117.14'
+citation: 'Joshi, H., Todd, B.E., <b>Szasz, T.</b>, Anaya, E., Morley, S.C.; Inflammasome activation in macrophages is regulated by actin-bundling protein L-plastin. <i>J Immunol </i> 1 May 2019; 202 (1_Supplement): 117.14. https://doi.org/10.4049/jimmunol.202.Supp.117.14'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
