@@ -11,35 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Biology, Mississippi State University, 2025 (expected)
+  * Advisor: Dr. Amy Dapper 
+* Postgraduate Diploma, Global Health and Infectious Disease, The University of Edinburgh, 2018
+  * Advisor: Dr. Jenna Fyfe 
+* B.S. in Biomedical Engineering, Mississippi State University, 2015
+  * Advisor: Dr. Raj Prabhu 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Teaching Assistant, 2021 - Present
+  * Mississippi State University
+  * Duties includes: Teaching, grading, and preparing materials for lab sections within the Department of Biological Sciences
+  * Supervisor: Dr. Justin Thornton
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Intern, 2020-2021
+  * USDA Office of Partnerships and Public Engagement/Mississippi State University
+  * Duties included: Organizing and leading webinars for farmers and USDA stakeholders on farm stress and mental health. 
+  * Supervisor: Dr. David Buys, Dr. Mary Nelson Robertson
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* AmeriCorps VISTA, 2019-2020
+  * Mississippi State University Extension Service
+  * Duties included: Teaching Mental Health First Aid courses to teachers, community members and first responders; Giving on-site classes and online webinars in lead poisoning prevention. 
+  * Supervisor: Dr. David Buys, Dr. Mary Nelson Robertson
+
+* Research Technician II, 2015-2019
+  * Washington University School of Medicine
+  * Duties included: Wet-lab and microscopy research on the actin binding protein L-Plastin and its role in patient susceptibility to pneumococcal disease.  
+  * Supervisor: Dr. Celeste Morley
   
-Skills
+Fellowships and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NSF Graduate Research Fellowships Program (GRFP) Honorable Mention, 2022
+* University of Washington Summer Institute in Statistical Genetics (SISG) Scholarship, 2022
+* Mississippi State University Preparing Future Faculty (PFF) Program, 2024 - Present 
+
+Funding
+======
+* Graduate Student Travel Support Program (GSTS), 2023
+  * College of Arts and Life Sciences
+  * Mississippi State University
+* Graduate Student and Postdoc Travel Supplement, 2023
+  * The Society for the Study of Evolution (SSE)
+* WUCCI Microgrant, 2016
+  * Washington University Center for Cellular Imaging         
 
 Publications
 ======
@@ -61,4 +76,22 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Officer, 2022-2024
+  * MSU Biology Graduate Student Association
+  * Roles: Vice President, Secretary, Social Programs 
+* Summer Enrichment Camp Instructor, 2023 - Present
+  * The Mississippi School for Math and Science
+  * Activities: Middle and High School Robotics; Intro to Data Science and Visualization
+* Science Night at the Museum Volunteer, 2022 - Present
+  * Mississippi State University
+  * Activities: Natural Selection of Paper Butterflies; C. elegans Under the Microscope
+* Undergraduate Student Research Mentor, 2021 - 2022
+  * Mississippi State University
+  * Mentees: Katherynne Shores, Vineel Vanga, Luke Zacharias
+* Alumni Outreach, 2019 - Present
+  * The Mississippi School for Math and Science
+  * Activities: Judge, Science Bowl; Reviewer, Application Review; Guest Lecturer, Microbiology; Invited Speaker, Opening Ceremony 
+* Public Programs Volunteer, 2016 - 2019
+  * The St. Louis Science Center
+  * Youth Programs: Video Game Design, Intro to Coding, Fossils and Polymer Science, Science Lab, Engineering Design
+  * Adult Programs: Wine Night at the Museum, Drunk Goggles Demo
