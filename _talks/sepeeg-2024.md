@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Population Genetics of the American Alligator"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/sepeeg-2024
