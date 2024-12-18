@@ -14,9 +14,9 @@ Children in St. Louis exhibit a higher prevalence of VT serotypes among pneumoco
 date: 2017-08-03
 venue: 'Vaccine'
 paperurl: 'https://doi.org/10.1016/j.vaccine.2017.06.047'
-citation: 'Michelle McFarland, **Taylor P. Szasz**, Julie Y. Zhou, Kara Motley, Janardan S. Sivapalan, Megan Isaacson-Schmid, Elizabeth M. Todd, Patrick G. Hogan, Stephanie A. Fritz, Carey-Ann D. Burnham, Steen Hoffmann, Sharon Celeste Morley,
+citation: 'McFarland, M., <b>Szasz, T.P.</b>, Zhou, J.Y., Motley, K., Sivapalan, J.S., Isaacson-Schmid, M., Todd, E.M., Hogan, P.G., Fritz, S.A., Burnham, C.D., Hoffmann, S., Morley, S.C.,
 Colonization with 19F and other pneumococcal conjugate vaccine serotypes in children in St. Louis, Missouri, USA,
-Vaccine, Volume 35, Issue 34, 2017, Pages 4389-4395, ISSN 0264-410X, https://doi.org/10.1016/j.vaccine.2017.06.047.'
+<i>Vaccine</i>, Volume 35, Issue 34, 2017, Pages 4389-4395, ISSN 0264-410X, https://doi.org/10.1016/j.vaccine.2017.06.047.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
