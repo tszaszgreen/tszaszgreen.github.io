@@ -7,7 +7,7 @@ excerpt: 'Alveolar macrophages, sentinel cells essential to pulmonary immunity, 
 date: 2016-05-01
 venue: 'The Journal of Immunology'
 paperurl: 'https://doi.org/10.4049/jimmunol.196.Supp.119.9'
-citation: 'Sharon Celeste Morley, Elizabeth M Todd, Julie Y. Zhou, Lauren E. Deady, June Ann D’Angelo, **Taylor Szasz**; Defective monocyte motility disrupts alveolar macrophage development in mice deficient for L-plastin. J Immunol 1 May 2016; 196 (1_Supplement): 119.9. https://doi.org/10.4049/jimmunol.196.Supp.119.9'
+citation: 'Morley, S.C., Todd, E.M., Zhou, J.Y., Deady, L.E., D’Angelo, J.A., <b>Szasz, T. </b>; Defective monocyte motility disrupts alveolar macrophage development in mice deficient for L-plastin. <i>J Immunol</i> 1 May 2016; 196 (1_Supplement): 119.9. https://doi.org/10.4049/jimmunol.196.Supp.119.9'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
