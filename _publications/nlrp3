@@ -1,0 +1,13 @@
+---
+title: "The actin-bundling protein L-plastin regulates NLRP3 inflammasome activation in macrophages"
+collection: publications
+category: manuscripts
+permalink: /publication/nlrp3
+excerpt: 'In macrophages, inflammasome pathways induce IL-1β release and pyroptotic cell death to clear infections. For example, NLRP3 inflammasome activation in lung resident alveolar macrophages (AMs) is crucial in controlling pneumonia. We have found that mice lacking the actin-bundling protein L-plastin (LPL−/−) mice are highly susceptible to Streptococcus pnuemoniae lung infection and produce less IL-1β. LPL is also required for podosome formation. Podosomes are integrin-based sites of adhesion that anchor the actin cytoskeleton of AMs to the extracellular environment. As such, AMs can sense their mechanical environment via podosomes. We have found that AMs lacking LPL exhibit defective NLRP3 inflammasome activation in ex-vivo stimulation. Specifically, LPL is required for ASC oligomerization and downstream IL-1β processing after NLRP3 assembly. Since LPL also supports mechanosensitive integrin signaling, we hypothesized that LPL might link contact-based mechanosensation to inflammasome activation in macrophages. To test this hypothesis, we challenged LPL−/− mice with bleomycin, as bleomycin-induced lung injury and fibrosis is thought to be dependent upon NLRP3 activation. LPL−/− mice were resistant to bleomycin-induced lung injury, suggesting a previously unrecognized mechanosensitive mechanism regulating inflammasome activation in macrophages. We propose that the increased lung stiffness in fibrotic lung exerts mechanical stress on AMs and thus may contribute in inflammasome signaling. Increased understanding how mechanical signaling regulates may thus aid in developing therapies to treat lung pathologies i.e. acute respiratory distress syndrome (ARDS), COPD and lung fibrosis.'
+date: 2020-05-01
+venue: 'The Journal of Immunology'
+paperurl: 'https://doi.org/10.4049/jimmunol.204.Supp.144.24'
+citation: 'Hemant Joshi, Edgar Anaya, Alison Almgren-Bell, **Taylor P. Szasz**, Elizabeth M. Todd, Sharon Celeste Morley; The actin-bundling protein L-plastin regulates NLRP3 inflammasome activation in macrophages. J Immunol 1 May 2020; 204 (1_Supplement): 144.24.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
