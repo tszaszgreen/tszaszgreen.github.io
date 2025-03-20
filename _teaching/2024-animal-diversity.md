@@ -7,11 +7,21 @@ venue: "Mississippi State University, Department of Biological Sciences"
 date: 2024-08-15
 location: "Starkville, MS, USA"
 ---
-## Instructor of Record: Mr. Tom Holder
-* Semesters taught:
-  * Spring 2025
-## Instructor of Record: Dr. Megan Smith
-* Semesters taught:
-  * Fall 2024
+### Syllabus:
+* Intro to animal taxonomy
+* Phyla Porifera, Cnidaria, Ctenophora
+* Phyla Platyhelminthes, Rotifera, Mollusca
+* Phyla Annelida, Nematoda
+* Phylum Arthropoda
+* Phylum Echinodermata
+* Phylum Chordata
+* Diversity of Amphibians and reptiles
+* Diversity of Birds
+* Diversity of Mammals
+  
+### Semesters taught:
+* Spring 2025
+* Fall 2024
+  
  
 
