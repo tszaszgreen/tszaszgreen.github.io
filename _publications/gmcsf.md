@@ -3,7 +3,7 @@ title: "Inhaled GM-CSF in neonatal mice provides durable protection against bact
 collection: publications
 category: manuscripts
 permalink: /publication/gmcsf
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Pneumonia poses profound health threats to preterm infants. Alveolar macrophages (AMs) eliminate inhaled pathogens while maintaining surfactant homeostasis. As AM development only occurs perinatally, therapies that accelerate AM maturation in preterms may improve outcomes. We tested therapeutic rescue of AM development in mice lacking the actin-bundling protein L-plastin (LPL), which exhibit impaired AM development and increased susceptibility to pneumococcal lung infection. Airway administration of recombinant granulocyte-macrophage colony-stimulating factor (GM-CSF) to LPL−/− neonates augmented AM production. Airway administration distinguishes the delivery route from prior human infant trials. Adult LPL−/− animals that received neonatal GM-CSF were protected from experimental pneumococcal challenge. No detrimental effects on surfactant metabolism or alveolarization were observed. Airway recombinant GM-CSF administration thus shows therapeutic promise to accelerate neonatal pulmonary immunity, protecting against bacterial pneumonia.'
 date: 2019-08-14
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.aax3387'
