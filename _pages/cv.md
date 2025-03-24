@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <a href="files/tszgreen_online_CV_2025.pdf" download>Click here for a downloadable CV</a>
 
 Education
