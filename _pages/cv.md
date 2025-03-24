@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="https://tszaszgreen.github.io/files/tszgreen_online_CV_2025.pdf" type="application/pdf" />
+
+<a href="https://tszaszgreen.github.io/files/tszgreen_online_CV_2025.pdf" target="_blank">Downloadable CV</a>
 
 Education
 ======
