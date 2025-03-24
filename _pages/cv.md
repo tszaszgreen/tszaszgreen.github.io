@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="tszgreen.github.io/files/tszgreen_online_CV_2025.pdf" target="_blank">PDF.</a>
+<a href="https://tszgreen.github.io/files/tszgreen_online_CV_2025.pdf" target="_blank">PDF.</a>
 
 Education
 ======
