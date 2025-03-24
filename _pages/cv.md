@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
 
 <a href="https://github.com/tszaszgreen/tszaszgreen.github.io/blob/b9d6fa8f248f773782ccf0146276f36b3636a6ff/files/tszgreen_online_CV_2025.pdf" target="_blank">Downloadable CV</a>
 
