@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="files/tszgreen_online_CV_2025.pdf" download>Click here for a downloadable CV</a>
+<a href="tszaszgreen.github.io/files/tszgreen_online_CV_2025.pdf" download>Click here for a downloadable CV</a>
 
 Education
 ======
