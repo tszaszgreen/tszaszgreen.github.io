@@ -5,5 +5,5 @@ type: "Talks"
 permalink: /talks/bioseminar-2024
 venue: "MSU Graduate Student Seminar"
 date: 2024-2-14
-location: "Mississippi State University, MS, USA"
+location: "Starkville, MS, USA"
 ---
