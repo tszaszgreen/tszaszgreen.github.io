@@ -1,5 +1,5 @@
 ---
-title: "Population Genetics of the American Alligator"
+title: "Patterns of genetic diversity within American alligator genomes"
 collection: talks
 type: "Talks"
 permalink: /talks/bioseminar-2024
