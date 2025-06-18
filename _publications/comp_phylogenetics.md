@@ -7,7 +7,7 @@ excerpt: 'Meiotic recombination is an integral cellular process, required for th
 date: 2025-05-07
 venue: 'Molecular Biology and Evolution'
 paperurl: 'https://doi.org/10.1093/molbev/msaf100'
-citation: '**Taylor Szasz-Green**, Katherynne Shores, Vineel Vanga, Luke Zacharias, Andrew K Lawton, Amy L Dapper, Comparative Phylogenetics Reveal Clade-specific Drivers of Recombination Rate Evolution Across Vertebrates, Molecular Biology and Evolution, Volume 42, Issue 5, May 2025, msaf100, https://doi.org/10.1093/molbev/msaf100'
+citation: '__Taylor Szasz-Green__, Katherynne Shores, Vineel Vanga, Luke Zacharias, Andrew K Lawton, Amy L Dapper, Comparative Phylogenetics Reveal Clade-specific Drivers of Recombination Rate Evolution Across Vertebrates, Molecular Biology and Evolution, Volume 42, Issue 5, May 2025, msaf100, https://doi.org/10.1093/molbev/msaf100'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
