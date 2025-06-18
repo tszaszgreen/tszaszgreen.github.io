@@ -1,7 +1,7 @@
 ---
 title: 'Test Blog Post'
 date: 2025-06-18
-permalink: /posts/2025/06/blog-post-1/
+permalink: /posts/testpost/
 tags:
   - cool posts
   - category1
